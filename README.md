@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Product List
+This small application built in React simulates a product list, and users are able to remove or add more products to the list.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
